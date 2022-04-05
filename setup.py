@@ -20,7 +20,7 @@ setuptools.setup(
     python_requires=">=3.5",
     install_requires=["pandas", "nltk", "requests"],
     classifiers=[
-        'Development Status :: 1 - Beta',
+        'Development Status :: 1 - Alpha',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3.5',
