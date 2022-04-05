@@ -16,8 +16,7 @@ def emolexgram_main(text):
       OUTPUT: dictionary with the text and the value of 10 emotions
     """
 
-   # response = requests.get('https://raw.githubusercontent.com/mary123mary/EmoLecGram/main/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt')
-    response = requests.get('https://raw.githubusercontent.com/MOKSHA22/EmoLexGram/main/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt?token=GHSAT0AAAAAABTCDTTAHRYHJ3R4RLUZ77L4YSOM4XQ')
+    response = requests.get('https://raw.githubusercontent.com/mary123mary/EmoLexGram/master/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt')
     nrc = StringIO(response.text)
 
 

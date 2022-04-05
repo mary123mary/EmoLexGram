@@ -1,4 +1,4 @@
-"""Setup for the emoLexGram package."""
+"""Setup for the EmoLexGram package."""
 
 
 import setuptools
@@ -15,7 +15,7 @@ setuptools.setup(
     description='EmoLexGram is a python package for text-based emotion classification',
     version='v0.0.1',
     long_description=README,
-    url='https://github.com/MOKSHA22/EmoLexGram',
+    url='https://github.com/mary123mary/EmoLexGram',
     packages=setuptools.find_packages(),
     python_requires=">=3.5",
     install_requires=["pandas", "nltk", "requests"],
