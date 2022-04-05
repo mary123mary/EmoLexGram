@@ -1,7 +1,7 @@
-# LeXmo
-A python package for classifying emotion based on EmoLex (NRC Emotion Lexicon).
+# EmoLexGram
+A python package for classifying emotion based on EmoLexGram (NRC Emotion Lexicon).
 
-NRC Word-Emotion Association Lexicon aka NRC Emotion Lexicon aka EmoLex: 
+NRC Word-Emotion Association Lexicon aka NRC Emotion Lexicon aka EmoLexGram: 
 
 association of words with eight emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust)
 
